@@ -1,2 +1,4 @@
 # Binary-prediction-model
-NN, SVM, and XGBoost
+
+
+https://colab.research.google.com/drive/1CYD7xDIDa2LKFAS3cb3eEHUVFCHueUeP#scrollTo=wn0hEDhiobLR
