@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1CYD7xDIDa2LKFAS3cb3eEHUVFCHueUeP#scroll
 
 ## Result
 
-
+I divided all patients into training data (n=50) and validation data (n=47).
 
 Finally, XGBoost is the best model evaluated by ROC curve.
 
