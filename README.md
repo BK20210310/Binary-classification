@@ -4,7 +4,7 @@ Binary classification is the task of classifying the elements of a set into two 
 
 This is a example for using clinical data to predict whether PC (Pancreatic Cancer) patients suffer from cachexia.
 
-This is python code on Google Colab:
+python code on Google Colab:
 https://colab.research.google.com/drive/1CYD7xDIDa2LKFAS3cb3eEHUVFCHueUeP#scrollTo=wn0hEDhiobLR
 
 ## Introduction
